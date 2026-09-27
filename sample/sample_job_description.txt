@@ -1,0 +1,21 @@
+Job Title: Junior AI/ML Engineer
+Company: InnovateTech Solutions
+Location: Remote / Hybrid
+
+JOB OVERVIEW
+We are looking for an AI/ML Engineer with experience in Python, Machine Learning, Deep Learning, TensorFlow, PyTorch, SQL, AWS, Docker and Git. In this role, you will work alongside senior data scientists to design, build, and deploy machine learning models and data pipelines.
+
+KEY RESPONSIBILITIES
+- Develop and optimize Machine Learning and Deep Learning models using Python, TensorFlow, and PyTorch.
+- Conduct data preprocessing, feature engineering, and statistical analysis using Pandas and NumPy.
+- Design database queries and schemas using SQL for tabular dataset extraction.
+- Containerize machine learning applications using Docker and deploy them on AWS cloud infrastructure.
+- Collaborate with cross-functional software teams using Git version control and Agile development methodologies.
+
+REQUIREMENTS & SKILLS
+- Strong programming fundamentals in Python.
+- Demonstrated experience in Machine Learning algorithms, Deep Learning frameworks (TensorFlow or PyTorch), and NLP fundamentals.
+- Practical experience with database management systems using SQL.
+- Familiarity with cloud services like AWS and containerization using Docker.
+- Hands-on expertise with Git, GitHub, and Jupyter environments.
+- Excellent problem-solving, communication, and team collaboration skills.
