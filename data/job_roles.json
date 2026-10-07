@@ -1,0 +1,26 @@
+{
+  "Junior AI/ML Engineer": {
+    "title": "Junior AI/ML Engineer",
+    "description": "We are looking for an AI/ML Engineer with experience in Python, Machine Learning, Deep Learning, TensorFlow, PyTorch, SQL, AWS, Docker and Git.",
+    "core_skills": ["Python", "Machine Learning", "Deep Learning", "TensorFlow", "PyTorch", "SQL", "AWS", "Docker", "Git"],
+    "category": "AI/ML"
+  },
+  "Data Scientist / Data Analyst": {
+    "title": "Data Scientist / Data Analyst",
+    "description": "Seeking a Data Scientist proficient in Python, SQL, Pandas, NumPy, Data Analysis, Machine Learning, Power BI, Tableau, and Statistics.",
+    "core_skills": ["Python", "SQL", "Pandas", "NumPy", "Data Analysis", "Machine Learning", "Power BI", "Tableau"],
+    "category": "Data"
+  },
+  "Full Stack Web Developer": {
+    "title": "Full Stack Web Developer",
+    "description": "Looking for a Full Stack Developer experienced in JavaScript, React, Node.js, HTML, CSS, REST API, MongoDB, SQL, and Git.",
+    "core_skills": ["JavaScript", "React", "Node.js", "HTML", "CSS", "REST API", "MongoDB", "SQL", "Git"],
+    "category": "Web"
+  },
+  "Cloud & DevOps Engineer": {
+    "title": "Cloud & DevOps Engineer",
+    "description": "Hiring a DevOps Engineer skilled in AWS, Azure, Docker, Kubernetes, CI/CD, Linux, Terraform, Python, and Git.",
+    "core_skills": ["AWS", "Azure", "Docker", "Kubernetes", "CI/CD", "Linux", "Terraform", "Python", "Git"],
+    "category": "Cloud"
+  }
+}

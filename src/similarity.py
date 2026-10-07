@@ -25,10 +25,11 @@ def calculate_similarity(resume_raw: str, job_raw: str) -> dict:
     resume_clean = clean_text(resume_raw, remove_stopwords=True)
     job_clean = clean_text(job_raw, remove_stopwords=True)
 
-    if len(resume_clean.split()) < 3:
-        raise ValueError("Resume content is too short for meaningful analysis.")
-    if len(job_clean.split()) < 3:
-        raise ValueError("Job description content is too short for meaningful analysis.")
+    if len(resume_clean.split()) < 1:
+        raise ValueError("Resume content is empty or unreadable.")
+    if len(job_clean.split()) < 1:
+        raise ValueError("Job description content is empty or unreadable.")
+
 
     # Initialize TF-IDF Vectorizer with unigrams and bigrams
     vectorizer = TfidfVectorizer(ngram_range=(1, 2), stop_words='english')
